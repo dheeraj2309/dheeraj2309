@@ -1,4 +1,6 @@
-![hello world](images/final.gif)
+<div align="center">
+  <img src = "images/final.gif" height = 350>
+</div>
 
 <!--
 **dheeraj2309/dheeraj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
